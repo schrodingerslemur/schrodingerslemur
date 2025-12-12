@@ -1,6 +1,6 @@
 # Brendan Hendrata  
 **Full Stack • AI/ML • Embedded & Hardware ⚙️** <br>
-**B.S. Electrical & Computer Engineering + Physics, Carnegie Mellon University 🎓**
+**B.S. Electrical & Computer Engineering + CS, Carnegie Mellon University 🎓**
 
 I build end-to-end systems across software, AI, and hardware. My experience spans full-stack development (React, Node.js, Flask), applied machine learning (PyTorch, PINNs, transformers), and emerging work in embedded systems and digital design.
 
